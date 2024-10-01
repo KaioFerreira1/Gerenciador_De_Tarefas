@@ -1,0 +1,16 @@
+
+{
+  "tasks": [],
+  "members": [
+    {
+      "id": "1",
+      "name": "João",
+      "points": 70
+    },
+    {
+      "id": "2",
+      "name": "Maria",
+      "points": 40
+    }
+  ]
+}
